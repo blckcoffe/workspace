@@ -41,3 +41,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Customized files
+.metadata
+*.o
+*.exe
+*.d
+Debug
+Release
+.*project
+*.*dump
